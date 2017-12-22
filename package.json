@@ -1,0 +1,13 @@
+{
+  "name": "great-rpc",
+  "version": "1.0.0",
+  "description": "Great RPC is a thin wrapper around GRPC which makes creating GRPC based microservices easy.",
+  "main": "index.js",
+  "author": "Anish Basu",
+  "license": "MIT",
+  "repository": "https://github.com/anishbasu/great-rpc",
+  "dependencies": {
+    "grpc": "^1.8.0",
+    "polo": "^0.8.1"
+  }
+}
